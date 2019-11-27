@@ -20,3 +20,34 @@
 .App-link {
   color: #09d3ac;
 }
+
+.price {
+  font-size: 3.5rem;
+  margin-top: 1rem;
+}
+
+.coin {
+  text-transform: capitalize;
+}
+
+.currency {
+  text-transform: uppercase;
+}
+
+.news-item a {
+  color: #555;
+}
+
+.news-item img {
+  max-width: 283px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(48,49,51,0.1);
+  margin: 10px;
+  padding: 0;
+}
+
+.news-text {
+  padding: 10px;
+}
