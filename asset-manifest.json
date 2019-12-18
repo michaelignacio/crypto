@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/michaelignacio/crypto-news-tracker/static/css/main.3d8ff910.chunk.css",
+    "main.js": "/michaelignacio/crypto-news-tracker/static/js/main.e4838344.chunk.js",
+    "main.js.map": "/michaelignacio/crypto-news-tracker/static/js/main.e4838344.chunk.js.map",
+    "runtime-main.js": "/michaelignacio/crypto-news-tracker/static/js/runtime-main.a1e87832.js",
+    "runtime-main.js.map": "/michaelignacio/crypto-news-tracker/static/js/runtime-main.a1e87832.js.map",
+    "static/css/2.833dd627.chunk.css": "/michaelignacio/crypto-news-tracker/static/css/2.833dd627.chunk.css",
+    "static/js/2.f359a299.chunk.js": "/michaelignacio/crypto-news-tracker/static/js/2.f359a299.chunk.js",
+    "static/js/2.f359a299.chunk.js.map": "/michaelignacio/crypto-news-tracker/static/js/2.f359a299.chunk.js.map",
+    "index.html": "/michaelignacio/crypto-news-tracker/index.html",
+    "precache-manifest.5ab80ac448462a37db4fa69cd43ca543.js": "/michaelignacio/crypto-news-tracker/precache-manifest.5ab80ac448462a37db4fa69cd43ca543.js",
+    "service-worker.js": "/michaelignacio/crypto-news-tracker/service-worker.js",
+    "static/css/2.833dd627.chunk.css.map": "/michaelignacio/crypto-news-tracker/static/css/2.833dd627.chunk.css.map",
+    "static/css/main.3d8ff910.chunk.css.map": "/michaelignacio/crypto-news-tracker/static/css/main.3d8ff910.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1e87832.js",
+    "static/css/2.833dd627.chunk.css",
+    "static/js/2.f359a299.chunk.js",
+    "static/css/main.3d8ff910.chunk.css",
+    "static/js/main.e4838344.chunk.js"
+  ]
+}
