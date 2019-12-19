@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/crypto-news-tracker/static/css/main.3d8ff910.chunk.css",
-    "main.js": "/crypto-news-tracker/static/js/main.3ba655ca.chunk.js",
-    "main.js.map": "/crypto-news-tracker/static/js/main.3ba655ca.chunk.js.map",
-    "runtime-main.js": "/crypto-news-tracker/static/js/runtime-main.61b666b3.js",
-    "runtime-main.js.map": "/crypto-news-tracker/static/js/runtime-main.61b666b3.js.map",
-    "static/css/2.833dd627.chunk.css": "/crypto-news-tracker/static/css/2.833dd627.chunk.css",
-    "static/js/2.8547815c.chunk.js": "/crypto-news-tracker/static/js/2.8547815c.chunk.js",
-    "static/js/2.8547815c.chunk.js.map": "/crypto-news-tracker/static/js/2.8547815c.chunk.js.map",
-    "index.html": "/crypto-news-tracker/index.html",
-    "precache-manifest.5917b26ab7edaaa031c8c09aa6f0a963.js": "/crypto-news-tracker/precache-manifest.5917b26ab7edaaa031c8c09aa6f0a963.js",
-    "service-worker.js": "/crypto-news-tracker/service-worker.js",
-    "static/css/2.833dd627.chunk.css.map": "/crypto-news-tracker/static/css/2.833dd627.chunk.css.map",
-    "static/css/main.3d8ff910.chunk.css.map": "/crypto-news-tracker/static/css/main.3d8ff910.chunk.css.map"
+    "main.css": "/crypto/static/css/main.670fde47.chunk.css",
+    "main.js": "/crypto/static/js/main.668d7911.chunk.js",
+    "main.js.map": "/crypto/static/js/main.668d7911.chunk.js.map",
+    "runtime-main.js": "/crypto/static/js/runtime-main.1d651458.js",
+    "runtime-main.js.map": "/crypto/static/js/runtime-main.1d651458.js.map",
+    "static/css/2.833dd627.chunk.css": "/crypto/static/css/2.833dd627.chunk.css",
+    "static/js/2.4253a715.chunk.js": "/crypto/static/js/2.4253a715.chunk.js",
+    "static/js/2.4253a715.chunk.js.map": "/crypto/static/js/2.4253a715.chunk.js.map",
+    "index.html": "/crypto/index.html",
+    "precache-manifest.eb0c64a1d6d3bc16d9f95345d83e7073.js": "/crypto/precache-manifest.eb0c64a1d6d3bc16d9f95345d83e7073.js",
+    "service-worker.js": "/crypto/service-worker.js",
+    "static/css/2.833dd627.chunk.css.map": "/crypto/static/css/2.833dd627.chunk.css.map",
+    "static/css/main.670fde47.chunk.css.map": "/crypto/static/css/main.670fde47.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.61b666b3.js",
+    "static/js/runtime-main.1d651458.js",
     "static/css/2.833dd627.chunk.css",
-    "static/js/2.8547815c.chunk.js",
-    "static/css/main.3d8ff910.chunk.css",
-    "static/js/main.3ba655ca.chunk.js"
+    "static/js/2.4253a715.chunk.js",
+    "static/css/main.670fde47.chunk.css",
+    "static/js/main.668d7911.chunk.js"
   ]
 }
